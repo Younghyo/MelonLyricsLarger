@@ -1,5 +1,5 @@
 # MelonLyricsLarger
-멜론 가사창 확대해서 보여주는 프로그램
+멜론 PC 버전 플레이어 가사 확대해서 보여주는 프로그램
 
 Download
 https://github.com/Younghyo/MelonLyricsLarger/raw/master/executable/MelonLyricsLarger.exe
